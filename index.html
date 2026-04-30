@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seker | Anime Streaming</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- CSS & Fonts -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Ionicons for Icons -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Navigation -->
+        <header class="glass-header">
+            <div class="logo" onclick="window.router.navigate('/')">
+                <ion-icon name="play-circle"></ion-icon>
+                <span>Seker.</span>
+            </div>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Cari anime berdasarkan judul/kata kunci...">
+                <button id="searchBtn">
+                    <ion-icon name="search-outline"></ion-icon>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main id="app">
+            <!-- Dynamic Content goes here -->
+        </main>
+    </div>
+    
+    <!-- Template: Loading -->
+    <template id="tmpl-loading">
+        <div class="loading-state">
+            <div class="spinner"></div>
+            <p>Memuat data semesta...</p>
+        </div>
+    </template>
+
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>

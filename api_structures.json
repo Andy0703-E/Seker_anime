@@ -1,0 +1,805 @@
+{
+  "home": {
+    "status": "success",
+    "creator": "Sanka Vollerei",
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "message": "",
+    "ok": true,
+    "data": {
+      "ongoing": {
+        "href": "/anime/ongoing-anime",
+        "otakudesuUrl": "https://otakudesu.blog/ongoing-anime/",
+        "animeList": [
+          {
+            "title": "The Beginning After the End Season 2",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/156028.jpg",
+            "episodes": 5,
+            "releaseDay": "Kamis",
+            "latestReleaseDate": "30 Apr",
+            "animeId": "saikyou-ousama-nidome-s2-sub-indo",
+            "href": "/anime/anime/saikyou-ousama-nidome-s2-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/saikyou-ousama-nidome-s2-sub-indo/"
+          },
+          {
+            "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/155068.jpg",
+            "episodes": 5,
+            "releaseDay": "Kamis",
+            "latestReleaseDate": "30 Apr",
+            "animeId": "nigashita-sakana-sub-indo",
+            "href": "/anime/anime/nigashita-sakana-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/nigashita-sakana-sub-indo/"
+          },
+          {
+            "title": "Otaku ni Yasashii Gal wa Inai!?",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/otaku-ni-yasashii-gal-wa-inai-0044e17a044b4096940344b888dc701e.jpg",
+            "episodes": 4,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "30 Apr",
+            "animeId": "otaku-yasashii-gal-inai-sub-indo",
+            "href": "/anime/anime/otaku-yasashii-gal-inai-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/otaku-yasashii-gal-inai-sub-indo/"
+          },
+          {
+            "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/156029.jpg",
+            "episodes": 5,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "30 Apr",
+            "animeId": "vending-machine-s3-sub-indo",
+            "href": "/anime/anime/vending-machine-s3-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/vending-machine-s3-sub-indo/"
+          },
+          {
+            "title": "Dorohedoro Season 2",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Dorohedoro-Season-2.jpg",
+            "episodes": 7,
+            "releaseDay": "Kamis",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "dorohedo-s2-sub-indo",
+            "href": "/anime/anime/dorohedo-s2-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/dorohedo-s2-sub-indo/"
+          },
+          {
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 4",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/s4.jpg",
+            "episodes": 4,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "re-zero-kara-s4-sub-indo",
+            "href": "/anime/anime/re-zero-kara-s4-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/re-zero-kara-s4-sub-indo/"
+          },
+          {
+            "title": "Kanojo, Okarishimasu Season 5",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Kanojo-Okarishimasu-Season-5-Sub.jpg",
+            "episodes": 4,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "kanojo-no-okarishimasu-s5-sub-indo",
+            "href": "/anime/anime/kanojo-no-okarishimasu-s5-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/kanojo-no-okarishimasu-s5-sub-indo/"
+          },
+          {
+            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-S4.jpg",
+            "episodes": 8,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-s4-sub-indo",
+            "href": "/anime/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-s4-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-s4-sub-indo/"
+          },
+          {
+            "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/156005.jpg",
+            "episodes": 4,
+            "releaseDay": "None",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "my-ribdiculous-reincarnation-sub-indo",
+            "href": "/anime/anime/my-ribdiculous-reincarnation-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/my-ribdiculous-reincarnation-sub-indo/"
+          },
+          {
+            "title": "Tadaima, Ojamasaremasu!",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/156106.jpg",
+            "episodes": 4,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "tadaima-ojamasaremasu-sub-indo",
+            "href": "/anime/anime/tadaima-ojamasaremasu-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/tadaima-ojamasaremasu-sub-indo/"
+          },
+          {
+            "title": "Hidarikiki no Eren",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Hidarikiki-no-Eren.jpg",
+            "episodes": 4,
+            "releaseDay": "Selasa",
+            "latestReleaseDate": "29 Apr",
+            "animeId": "hidarikiki-eren-sub-indo",
+            "href": "/anime/anime/hidarikiki-eren-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/hidarikiki-eren-sub-indo/"
+          },
+          {
+            "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-55a3516a2ab9a15ce04946bee1aa68a1.jpg",
+            "episodes": 4,
+            "releaseDay": "Selasa",
+            "latestReleaseDate": "28 Apr",
+            "animeId": "class2-banme-kawaii-tomodachi-natta-sub-indo",
+            "href": "/anime/anime/class2-banme-kawaii-tomodachi-natta-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/class2-banme-kawaii-tomodachi-natta-sub-indo/"
+          },
+          {
+            "title": "Lastame Season 2",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/155657.jpg",
+            "episodes": 4,
+            "releaseDay": "Selasa",
+            "latestReleaseDate": "28 Apr",
+            "animeId": "lastame-s2-sub-indo",
+            "href": "/anime/anime/lastame-s2-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/lastame-s2-sub-indo/"
+          },
+          {
+            "title": "Aishiteru Game wo Owarasetai",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Aishiteru-Game-wo-Owarasetai.jpg",
+            "episodes": 3,
+            "releaseDay": "Selasa",
+            "latestReleaseDate": "28 Apr",
+            "animeId": "aishiteru-game-owarasetai-sub-indo",
+            "href": "/anime/anime/aishiteru-game-owarasetai-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/aishiteru-game-owarasetai-sub-indo/"
+          },
+          {
+            "title": "Marriagetoxin",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Marriagetoxin-Sub.jpg",
+            "episodes": 4,
+            "releaseDay": "Rabu",
+            "latestReleaseDate": "28 Apr",
+            "animeId": "marratoxin-sub-indo",
+            "href": "/anime/anime/marratoxin-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/marratoxin-sub-indo/"
+          }
+        ]
+      },
+      "completed": {
+        "href": "/anime/complete-anime",
+        "otakudesuUrl": "https://otakudesu.blog/complete-anime/",
+        "animeList": [
+          {
+            "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Okiraku-Ryoushu-no-Tanoshii-Ryouchi-Bouei-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "6.79",
+            "lastReleaseDate": "26 Apr",
+            "animeId": "okiraku-ryoushu-tanoshii-sub-indo",
+            "href": "/anime/anime/okiraku-ryoushu-tanoshii-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/okiraku-ryoushu-tanoshii-sub-indo/"
+          },
+          {
+            "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/03/Yuusha-Party-wo-Oidasareta-Kiyoubinbou-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "6.65",
+            "lastReleaseDate": "25 Apr",
+            "animeId": "yuusha-party-kiyoubinbou-sub-indo",
+            "href": "/anime/anime/yuusha-party-kiyoubinbou-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/yuusha-party-kiyoubinbou-sub-indo/"
+          },
+          {
+            "title": "Kirei ni Shitemoraemasu ka.",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Kirei-ni-Shitemoraemasu-ka-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "6.92",
+            "lastReleaseDate": "23 Apr",
+            "animeId": "kirei-shitemoraemasu-sub-indo",
+            "href": "/anime/anime/kirei-shitemoraemasu-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/kirei-shitemoraemasu-sub-indo/"
+          },
+          {
+            "title": "Osananajimi to wa Love Comedy ni Naranai",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Osananajimi-to-wa-Love-Comedy-ni-Naranai-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "6.42",
+            "lastReleaseDate": "23 Apr",
+            "animeId": "osananajimi-love-comedy-sub-indo",
+            "href": "/anime/anime/osananajimi-love-comedy-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/osananajimi-love-comedy-sub-indo/"
+          },
+          {
+            "title": "Goumon Baito-kun no Nichijou",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/03/Goumon-Baito-kun-no-Nichijou-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "6.77",
+            "lastReleaseDate": "23 Apr",
+            "animeId": "goumon-baito-sub-indo",
+            "href": "/anime/anime/goumon-baito-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/goumon-baito-sub-indo/"
+          },
+          {
+            "title": "Majutsushi Kunon wa Mieteiru",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/03/Majutsushi-Kunon-wa-Mieteiru-Sub-Indo.jpg",
+            "episodes": 13,
+            "score": "6.56",
+            "lastReleaseDate": "21 Apr",
+            "animeId": "majutsushi-kunon-mieteiru-sub-indo",
+            "href": "/anime/anime/majutsushi-kunon-mieteiru-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/majutsushi-kunon-mieteiru-sub-indo/"
+          },
+          {
+            "title": "Kizoku Tensei",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Kizoku-Tensei-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "6.67",
+            "lastReleaseDate": "20 Apr",
+            "animeId": "kizoku-tensei-subtitle-indonesia",
+            "href": "/anime/anime/kizoku-tensei-subtitle-indonesia",
+            "otakudesuUrl": "https://otakudesu.blog/anime/kizoku-tensei-subtitle-indonesia/"
+          },
+          {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Toujima-Tanzaburou-wa-Kamen-Rider-ni-Naritai-Sub-Indo.jpg",
+            "episodes": 24,
+            "score": "7.81",
+            "lastReleaseDate": "17 Apr",
+            "animeId": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo",
+            "href": "/anime/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo/"
+          },
+          {
+            "title": "Shibou Yuugi de Meshi wo Kuu.",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/03/Shibou-Yuugi-de-Meshi-wo-Kuu-Sub-Indo.jpg",
+            "episodes": 11,
+            "score": "7.17",
+            "lastReleaseDate": "15 Apr",
+            "animeId": "shibou-yuugi-meshi-kuu-sub-indo",
+            "href": "/anime/anime/shibou-yuugi-meshi-kuu-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/shibou-yuugi-meshi-kuu-sub-indo/"
+          },
+          {
+            "title": "Maou no Musume wa Yasashisugiru!!",
+            "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Maou-no-Musume-wa-Yasashisugiru-Sub-Indo.jpg",
+            "episodes": 12,
+            "score": "7.36",
+            "lastReleaseDate": "15 Apr",
+            "animeId": "maou-musume-yasashisugiru-sub-indo",
+            "href": "/anime/anime/maou-musume-yasashisugiru-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/anime/maou-musume-yasashisugiru-sub-indo/"
+          }
+        ]
+      }
+    },
+    "pagination": null
+  },
+  "detail": {
+    "status": "success",
+    "creator": "Sanka Vollerei",
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "message": "",
+    "ok": true,
+    "data": {
+      "title": "The Beginning After the End Season 2",
+      "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/156028.jpg",
+      "japanese": "最強の王様、二度目の人生は何をする? Season2",
+      "score": "",
+      "producers": "Slow Curve",
+      "type": "TV",
+      "status": "Ongoing",
+      "episodes": null,
+      "duration": "22 Min.",
+      "aired": "Apr 01, 2026",
+      "studios": "A-CAT",
+      "batch": null,
+      "synopsis": {
+        "paragraphs": [],
+        "connections": []
+      },
+      "genreList": [
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/anime/genre/fantasy",
+          "otakudesuUrl": "https://otakudesu.blog/genres/fantasy/"
+        },
+        {
+          "title": "Isekai",
+          "genreId": "isekai",
+          "href": "/anime/genre/isekai",
+          "otakudesuUrl": "https://otakudesu.blog/genres/isekai/"
+        },
+        {
+          "title": "Reincarnation",
+          "genreId": "reincarnation",
+          "href": "/anime/genre/reincarnation",
+          "otakudesuUrl": "https://otakudesu.blog/genres/reincarnation/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "The Beginning After the End Season 2 Episode 5 Subtitle Indonesia",
+          "eps": 5,
+          "date": "30 April,2026",
+          "episodeId": "tbat-s2-episode-5-sub-indo",
+          "href": "/anime/episode/tbat-s2-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-5-sub-indo/"
+        },
+        {
+          "title": "The Beginning After the End Season 2 Episode 4 Subtitle Indonesia",
+          "eps": 4,
+          "date": "23 April,2026",
+          "episodeId": "tbat-s2-episode-4-sub-indo",
+          "href": "/anime/episode/tbat-s2-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-4-sub-indo/"
+        },
+        {
+          "title": "The Beginning After the End Season 2 Episode 3 Subtitle Indonesia",
+          "eps": 3,
+          "date": "16 April,2026",
+          "episodeId": "tbat-s2-episode-3-sub-indo",
+          "href": "/anime/episode/tbat-s2-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-3-sub-indo/"
+        },
+        {
+          "title": "The Beginning After the End Season 2 Episode 2 Subtitle Indonesia",
+          "eps": 2,
+          "date": "9 April,2026",
+          "episodeId": "tbat-s2-episode-2-sub-indo",
+          "href": "/anime/episode/tbat-s2-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-2-sub-indo/"
+        },
+        {
+          "title": "The Beginning After the End Season 2 Episode 1 Subtitle Indonesia",
+          "eps": 1,
+          "date": "2 April,2026",
+          "episodeId": "tbat-s2-episode-1-sub-indo",
+          "href": "/anime/episode/tbat-s2-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-1-sub-indo/"
+        }
+      ],
+      "recommendedAnimeList": [
+        {
+          "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Okiraku-Ryoushu-no-Tanoshii-Ryouchi-Bouei-Sub-Indo.jpg",
+          "animeId": "okiraku-ryoushu-tanoshii-sub-indo",
+          "href": "/anime/anime/okiraku-ryoushu-tanoshii-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/okiraku-ryoushu-tanoshii-sub-indo/"
+        },
+        {
+          "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/03/Yuusha-Party-wo-Oidasareta-Kiyoubinbou-Sub-Indo.jpg",
+          "animeId": "yuusha-party-kiyoubinbou-sub-indo",
+          "href": "/anime/anime/yuusha-party-kiyoubinbou-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/yuusha-party-kiyoubinbou-sub-indo/"
+        },
+        {
+          "title": "Kirei ni Shitemoraemasu ka.",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Kirei-ni-Shitemoraemasu-ka-Sub-Indo.jpg",
+          "animeId": "kirei-shitemoraemasu-sub-indo",
+          "href": "/anime/anime/kirei-shitemoraemasu-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/kirei-shitemoraemasu-sub-indo/"
+        },
+        {
+          "title": "Osananajimi to wa Love Comedy ni Naranai",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/04/Osananajimi-to-wa-Love-Comedy-ni-Naranai-Sub-Indo.jpg",
+          "animeId": "osananajimi-love-comedy-sub-indo",
+          "href": "/anime/anime/osananajimi-love-comedy-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/osananajimi-love-comedy-sub-indo/"
+        },
+        {
+          "title": "Goumon Baito-kun no Nichijou",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2026/03/Goumon-Baito-kun-no-Nichijou-Sub-Indo.jpg",
+          "animeId": "goumon-baito-sub-indo",
+          "href": "/anime/anime/goumon-baito-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/goumon-baito-sub-indo/"
+        }
+      ]
+    },
+    "pagination": null
+  },
+  "episode": {
+    "status": "success",
+    "creator": "Sanka Vollerei",
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "message": "",
+    "ok": true,
+    "data": {
+      "title": "The Beginning After the End Season 2 Episode 5 Subtitle Indonesia",
+      "animeId": "saikyou-ousama-nidome-s2-sub-indo",
+      "releaseTime": "Release on 1:09 am",
+      "defaultStreamingUrl": "https://desustream.info/dstream/updesu/v5/index.php?id=RFIwMFdvU0FhbjZqUDIzYWFhdytPTnVnWWJFZHJudWlpOUs3ZlpacnRWVT0=",
+      "hasPrevEpisode": true,
+      "prevEpisode": {
+        "title": "Prev",
+        "episodeId": "tbat-s2-episode-4-sub-indo",
+        "href": "/anime/episode/tbat-s2-episode-4-sub-indo",
+        "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-4-sub-indo/"
+      },
+      "hasNextEpisode": false,
+      "nextEpisode": null,
+      "server": {
+        "qualities": [
+          {
+            "title": "360p",
+            "serverList": [
+              {
+                "title": "vidhide",
+                "serverId": "6EBE9B-5-8B5u",
+                "href": "/anime/server/6EBE9B-5-8B5u"
+              },
+              {
+                "title": "filedon",
+                "serverId": "6EBE9B-6-8B5u",
+                "href": "/anime/server/6EBE9B-6-8B5u"
+              },
+              {
+                "title": "mega",
+                "serverId": "6EBE9B-7-8B5u",
+                "href": "/anime/server/6EBE9B-7-8B5u"
+              }
+            ]
+          },
+          {
+            "title": "480p",
+            "serverList": [
+              {
+                "title": "updesu",
+                "serverId": "6EBE9B-5-9D5u",
+                "href": "/anime/server/6EBE9B-5-9D5u"
+              },
+              {
+                "title": "vidhide",
+                "serverId": "6EBE9B-6-9D5u",
+                "href": "/anime/server/6EBE9B-6-9D5u"
+              },
+              {
+                "title": "filedon",
+                "serverId": "6EBE9B-7-9D5u",
+                "href": "/anime/server/6EBE9B-7-9D5u"
+              },
+              {
+                "title": "mega",
+                "serverId": "6EBE9B-8-9D5u",
+                "href": "/anime/server/6EBE9B-8-9D5u"
+              }
+            ]
+          },
+          {
+            "title": "720p",
+            "serverList": [
+              {
+                "title": "ondesuhd ",
+                "serverId": "6EBE9B-5-C75u",
+                "href": "/anime/server/6EBE9B-5-C75u"
+              },
+              {
+                "title": "filedon ",
+                "serverId": "6EBE9B-6-C75u",
+                "href": "/anime/server/6EBE9B-6-C75u"
+              },
+              {
+                "title": "vidhide ",
+                "serverId": "6EBE9B-7-C75u",
+                "href": "/anime/server/6EBE9B-7-C75u"
+              },
+              {
+                "title": "mega ",
+                "serverId": "6EBE9B-8-C75u",
+                "href": "/anime/server/6EBE9B-8-C75u"
+              }
+            ]
+          }
+        ]
+      },
+      "downloadUrl": {
+        "qualities": [
+          {
+            "title": "Mp4_360p",
+            "size": "37.7 MB",
+            "urls": [
+              {
+                "title": "ODFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQm1lMWV1LzAycVNQR0x1WkUrMXJOQ0JDTDFIeXhqanVSSlFuLzhrSEgvOThKYnpTMVJyQ01WaDRLeTRqR0JOeUZLTWhPUA=="
+              },
+              {
+                "title": "Pdrain",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMFcwdzBuME4rS2k="
+              },
+              {
+                "title": "Acefile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDhLZ0h2dWh2M1ZPYU03NUZrL2FKUUducjRGUUJpd3V4U2VBYk40d2lLN001YTFqQVJ0QkZXaFE9PQ=="
+              },
+              {
+                "title": "GoFile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3hEMWhWbVE9"
+              },
+              {
+                "title": "Mega",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZy9sVkFkRmlVdTJEZ1N0dWYvWTExckpjWEZoWHBMaEJ3OTh0V2JoL1p0MmJSOVBvRHNuSlZ0QnB5MmZlTm1DdWpVbFpiRnc9PQ=="
+              },
+              {
+                "title": "KFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXeFNiQ1Y1cmRTM2FOQ1FESDRGam80eVBsTGNRPT0="
+              }
+            ]
+          },
+          {
+            "title": "Mp4_480p",
+            "size": "72.2 MB",
+            "urls": [
+              {
+                "title": "ODFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQS9jVmJvNFJyMkV1NmM2SncrMXJOQ0JDTDFIeXhqanVSSlFuLzhrSEgvOThKYnpTMVJyQ01TaVlLeTRqR0JOeUZLTWhPUA=="
+              },
+              {
+                "title": "Pdrain",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMkt4d0YrcFBmbUM="
+              },
+              {
+                "title": "Acefile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDhLZ0h2dWh2MlZPYU03NUZrL2FKUUducjRGUUJpd3V4U2VBYk40d2lLN001ZDJEQVJ0QkZXaFE9PQ=="
+              },
+              {
+                "title": "GoFile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3hEMWhWbVE9"
+              },
+              {
+                "title": "Mega",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3VsWkRXVmljMTNuZ0x1V1U3SWxneHZNUUF6cjBNeWgwNWM5WGQwbmQ1azc5N054ZmsxOFV3MGhnOUllRnZDU2xibGw3S1E9PQ=="
+              },
+              {
+                "title": "KFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXUEljRy8rTGg5L0o1UVFESDRGam80eVBsTGNRPT0="
+              }
+            ]
+          },
+          {
+            "title": "Mp4_720p",
+            "size": "131.0 MB",
+            "urls": [
+              {
+                "title": "ODFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQjVjbGU4NTErN0ErNlY1WjArMXJOQ0JDTDFIeXhqanVSSlFuLzhrSEgvOThKYnpTMVJyQ01SZzRLeTRqR0JOeUZLTWhPUA=="
+              },
+              {
+                "title": "Pdrain",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNM0d1NW16N1BMaWU="
+              },
+              {
+                "title": "Acefile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDhLZ0h2dWh2MVZPYU03NUZrL2FKUUducjRGUUJpd3V4U2VBYk40d2lLN001ZTBqQVJ0QkZXaFE9PQ=="
+              },
+              {
+                "title": "GoFile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3hEMWhWbVE9"
+              },
+              {
+                "title": "Mega",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZy9rVmJTUUdNOTJQZ0h0ek4rYTFjOHBNVU9BYlpBajFlbDlWZWNYbi81VXpJZ2FBWXVqTTIxaWwwMmZUMTRRYW1Va2RVTlE9PQ=="
+              },
+              {
+                "title": "KFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXQUE4YVArN1Zyci9kdVFESDRGam80eVBsTGNRPT0="
+              }
+            ]
+          },
+          {
+            "title": "MKV_480p",
+            "size": "72.0 MB",
+            "urls": [
+              {
+                "title": "ODFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQS9ma0N1dUV5N1RPT1d0b0krMXJOQ0JDTDFIeXhqanVSSlFuLzhrSEgvOThKYnpTMVJyQ05yMnNUMjlHeUJMV0pKTUZDTGp2WVA="
+              },
+              {
+                "title": "Pdrain",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMTJlNjErVFRNaTU="
+              },
+              {
+                "title": "Acefile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDhLZ0h2dWh2MFZPYU03NUZrL2FKUUducjRGUUJpd3V4U2VBYk40d2lLN000RWkzWlZvVXhXbk4rcHVnPT0="
+              },
+              {
+                "title": "GoFile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3hEMWhWbVE9"
+              },
+              {
+                "title": "Mega",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzlteElabG1iOUg3Z0EvMnh6NkI4N1lKTVZ4VDFEeXBEME00UlhsM1Q1a25PbGFFZG8wTXYveTVnNWVTN3ZCV0dUendQQ3c9PQ=="
+              },
+              {
+                "title": "KFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXYk52ek14ckIzN0pGeVFESDRGam80eVBsTGNRPT0="
+              }
+            ]
+          },
+          {
+            "title": "MKV_720p",
+            "size": "130.8 MB",
+            "urls": [
+              {
+                "title": "ODFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQStkRnVydmw3eUQvMmZ1WU0rMXJOQ0JDTDFIeXhqanVSSlFuLzhrSEgvOThKYnpTMVJyQ05yMnNUMS9teUJMV0pKTUZDTGp2WVA="
+              },
+              {
+                "title": "Pdrain",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMWJuOTBHdUw4U0M="
+              },
+              {
+                "title": "Acefile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDhLZ0h2dWh2N1ZPYU03NUZrL2FKUUducjRGUUJpd3V4U2VBYk40d2lLN000RWkzWldxMHhXbk4rcHVnPT0="
+              },
+              {
+                "title": "GoFile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3hEMWhWbVE9"
+              },
+              {
+                "title": "Mega",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzVsbExkRXFHd1dIZ005alB3ZGRFcksxMlhqcjZIekZzMnNsUmZIVHZuM2ZPdk9BbXFtRXp0QXRGaWV1QWhRMjhZR2hTSVE9PQ=="
+              },
+              {
+                "title": "KFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXdUZPQ010b2gyNnJaelFESDRGam80eVBsTGNRPT0="
+              }
+            ]
+          },
+          {
+            "title": "MKV_1080p",
+            "size": "229.0 MB",
+            "urls": [
+              {
+                "title": "ODFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQjZjMG03NUVEMFR1MmI0NTArMXJOQ0JDTDFIeXhqanVSSlFuLzhrSEgvOThKYnpTMVJyQ05yMnNUei9HVEJjeUZQTFFqTmt1OE9lZz09"
+              },
+              {
+                "title": "Pdrain",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMWkzMzJqNkNQdSs="
+              },
+              {
+                "title": "Acefile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDhLZ0h2dWh2NlZPYU03NUZrL2FKUUducjRGUUJpd3V4U2VBYk40d2lLN000RWkzWlFxVVFXd1ordnB5bz0="
+              },
+              {
+                "title": "GoFile",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3hEMWhWbVE9"
+              },
+              {
+                "title": "Mega",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzZsNXBkVmVUNUg3Z0VPdTArYThvN0w4WFh4ekhNZzl5NXZWQlhCM1p0bVB5NGVzRnYyc28zazlLZzl5eGltcmNXMXdVZGc9PQ=="
+              },
+              {
+                "title": "KFiles",
+                "url": "https://link.desustream.com/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXM005bTcrNE1od2FKRlFESDRGam80eVBsTGNRPT0="
+              }
+            ]
+          }
+        ]
+      },
+      "info": {
+        "credit": "Oploverz",
+        "encoder": "Oploverz",
+        "duration": "22 Min.",
+        "type": "TV",
+        "genreList": [
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.blog/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.blog/genres/isekai/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.blog/genres/reincarnation/"
+          }
+        ],
+        "episodeList": [
+          {
+            "title": "Episode 5",
+            "eps": 5,
+            "date": "",
+            "episodeId": "tbat-s2-episode-5-sub-indo",
+            "href": "/anime/episode/tbat-s2-episode-5-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-5-sub-indo/"
+          },
+          {
+            "title": "Episode 4",
+            "eps": 4,
+            "date": "",
+            "episodeId": "tbat-s2-episode-4-sub-indo",
+            "href": "/anime/episode/tbat-s2-episode-4-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-4-sub-indo/"
+          },
+          {
+            "title": "Episode 3",
+            "eps": 3,
+            "date": "",
+            "episodeId": "tbat-s2-episode-3-sub-indo",
+            "href": "/anime/episode/tbat-s2-episode-3-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-3-sub-indo/"
+          },
+          {
+            "title": "Episode 2",
+            "eps": 2,
+            "date": "",
+            "episodeId": "tbat-s2-episode-2-sub-indo",
+            "href": "/anime/episode/tbat-s2-episode-2-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-2-sub-indo/"
+          },
+          {
+            "title": "Episode 1",
+            "eps": 1,
+            "date": "",
+            "episodeId": "tbat-s2-episode-1-sub-indo",
+            "href": "/anime/episode/tbat-s2-episode-1-sub-indo",
+            "otakudesuUrl": "https://otakudesu.blog/episode/tbat-s2-episode-1-sub-indo/"
+          }
+        ]
+      }
+    },
+    "pagination": null
+  },
+  "search": {
+    "status": "success",
+    "creator": "Sanka Vollerei",
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "message": "",
+    "ok": true,
+    "data": {
+      "animeList": [
+        {
+          "title": "Boruto: Naruto Next Generations Subtitle Indonesia",
+          "poster": "https://otakudesu.blog/wp-content/uploads/2020/05/Boruto-Sub-Indo.jpg",
+          "status": "Ongoing",
+          "score": "6.15",
+          "animeId": "borot-sub-indo",
+          "href": "/anime/anime/borot-sub-indo",
+          "otakudesuUrl": "https://otakudesu.blog/anime/borot-sub-indo/",
+          "genreList": [
+            {
+              "title": "Action",
+              "genreId": "action",
+              "href": "/anime/genre/action",
+              "otakudesuUrl": "https://otakudesu.blog/genres/action/"
+            },
+            {
+              "title": "Adventure",
+              "genreId": "adventure",
+              "href": "/anime/genre/adventure",
+              "otakudesuUrl": "https://otakudesu.blog/genres/adventure/"
+            },
+            {
+              "title": "Martial Arts",
+              "genreId": "martial-arts",
+              "href": "/anime/genre/martial-arts",
+              "otakudesuUrl": "https://otakudesu.blog/genres/martial-arts/"
+            },
+            {
+              "title": "Shounen",
+              "genreId": "shounen",
+              "href": "/anime/genre/shounen",
+              "otakudesuUrl": "https://otakudesu.blog/genres/shounen/"
+            },
+            {
+              "title": "Super Power",
+              "genreId": "super-power",
+              "href": "/anime/genre/super-power",
+              "otakudesuUrl": "https://otakudesu.blog/genres/super-power/"
+            }
+          ]
+        }
+      ]
+    },
+    "pagination": null
+  }
+}
